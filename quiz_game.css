@@ -1,0 +1,11 @@
+body{
+    background-color: bisque;
+    
+}
+
+.login_div1,.login_div2{
+    background-color: darksalmon;
+    padding: 10px;
+    float: none;
+    
+}
